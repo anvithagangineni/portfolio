@@ -24,4 +24,6 @@ Projects:
 
 •	PCA Digit Classification - Performs dimensionality reduction on the sklearn Digits dataset using Principal Component Analysis to retain the most informative features. Using a Decision Tree classifier to predict the digit, it then evaluates how accurate the predictions are.
 
+•Developed a movie recommendation system that suggests similar movies using text-based features and cosine similarity. Applied Python, pandas, and scikit-learn to analyze and process movie data.
+
 
