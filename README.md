@@ -22,5 +22,6 @@ CEO, Temp It, LLC, Austin, Texas	August 2022 – June 2024
 Projects:
 •	 Steam Games Recommendations System - Developed a content-based recommendation system using TF-IDF vectorization and cosine similarity to identify relationships between games based on descriptions, tags, and genres
 
+•	PCA Digit Classification - Performs dimensionality reduction on the sklearn Digits dataset using Principal Component Analysis to retain the most informative features. Using a Decision Tree classifier to predict the digit, it then evaluates how accurate the predictions are.
 
 
