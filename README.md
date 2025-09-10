@@ -20,5 +20,7 @@ CEO, Temp It, LLC, Austin, Texas	August 2022 – June 2024
 
 
 Projects:
+•	 Steam Games Recommendations System - Developed a content-based recommendation system using TF-IDF vectorization and cosine similarity to identify relationships between games based on descriptions, tags, and genres
+
 
 
