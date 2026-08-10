@@ -4,13 +4,13 @@ Education:
 The University of Texas at Dallas
 
 Skills:
-Languages: Python, C++, R
+Languages: Python, R
 Libraries/Frameworks: Pandas, Seaborn, TensorFlow, Scikit-Learn, NumPy
 Techniques: Machine Learning, Deep Learning
 Software: SQL
 
 Certificates:
-Entrepreneurship and Small business Certification
+Google Data Analytics Certificate
 
 Professional Experience:
 CEO, Temp It, LLC, Austin, Texas	August 2022 – June 2024
